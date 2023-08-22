@@ -1,0 +1,21 @@
+h1{
+    font-size: 40px  ;
+    font-weight: bold;
+}
+.row{
+    margin-bottom: 80px !important;
+}
+.sp{
+    font-size: 25px;
+    font-weight: bold;
+}
+.sty{
+    margin-top: -90px;
+    width: 7rem;
+    height: 12rem;
+}
+.bg{
+    background-color: rgb(204, 51, 153);
+    border-radius: none;
+    
+}
